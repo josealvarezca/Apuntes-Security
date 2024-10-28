@@ -1,40 +1,29 @@
-# Objetivo: "Compara y contrasta varios tipos de controles de seguridad."
+### Objetivo: "Compara y contrasta varios tipos de controles de seguridad."
 
-## 1.1 Controles de seguridad
+- Existen diversos riesgos de seguridad para diferentes activos (datos, propiedad física, sistemas informáticos)
+- Si reconocemos los controles de seguridad, podemos prevenir eventos, minimizar el impacto y limitar daños
+- Categorías:
+  - Controles técnicos
+    - Implementados mediante sistemas
+    - Controles del sistema operativo
+    - Cortafuegos, antivirus
+  - Controles administrativos
+    - Controles administrativos, diseño e implementación
+    - Políticas y procedimientos de seguridad
+  - Controles operativos
+    - Implementados por personas
+    - Guardias, programas de concienciación
+  - Controles físicos
+    - Limitar el acceso físico
+    - Cabinas de seguridad, cercas, cerraduras, lector de credenciales
 
-Existen diversos riesgos de seguridad para diferentes activos (datos, propiedad física, sistemas informáticos). Si reconocemos los controles de seguridad, podemos prevenir eventos, minimizar el impacto y limitar daños.
-
-### Categorías:
-
-#### Controles técnicos:
-- Son controles que implementamos mediante algún tipo de sistema técnico
-- Implementados mediante sistemas
-- Controles del sistema operativo
-- Cortafuegos, antivirus.
-
-#### Controles administrativos:
-- Como administrador de seguridad también querrá crear una serie de políticas que expliquen a las personas la mejor manera de administrar sus computadoras, sus datos u otros sistemas
-- Controles administrativos, diseño e implementación.
-- Políticas y procedimientos de seguridad.
-
-#### Controles operativos:
-- Para gestionar estos controles operativos utilizan personas para establecer estos controles.
-- Implementados por personas.
-- Guardias, programas de concienciación.
-
-#### Controles físicos:
-- Se trata de controles que limitarán el acceso físico de alguien a un edificio, habitación o dispositivo.
-- Limitar el acceso físico.
-- Cabinas de seguridad, cercas, cerraduras, lector de credenciales.
-
-### Tipos de control:
-
-- **Preventivo**: Bloquea el acceso a un recurso.
-- **Disuasivo**: Desanima un intento de intrusión.
-- **Detectivo**: Identifica y registra un intento de intrusión.
-- **Correctivo**: Aplicado después de que se detecta un evento, invirtiendo el impacto.
-- **Compensatorio**: Controles existentes insuficientes, se controla temporalmente mediante otros medios.
-- **Directivo**: Dirige a un sujeto hacia el cumplimiento (débil, basado en sugerencia/política).
+- Tipos de control:
+  - Preventivo: bloquea el acceso a un recurso
+  - Disuasivo: desanima un intento de intrusión
+  - Detectivo: identifica y registra un intento de intrusión
+  - Correctivo: aplicado después de que se detecta un evento, invirtiendo el impacto
+  - Compensatorio: controles existentes insuficientes, se controla temporalmente mediante otros medios
+  - Directivo: dirige a un sujeto hacia el cumplimiento (débil, basado en sugerencia/política)
 
 ### Tabla de Controles
 
