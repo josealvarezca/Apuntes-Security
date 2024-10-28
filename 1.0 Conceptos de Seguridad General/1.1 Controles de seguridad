@@ -1,0 +1,47 @@
+# Objetivo: "Compara y contrasta varios tipos de controles de seguridad."
+
+## 1.1 Controles de seguridad
+
+Existen diversos riesgos de seguridad para diferentes activos (datos, propiedad física, sistemas informáticos). Si reconocemos los controles de seguridad, podemos prevenir eventos, minimizar el impacto y limitar daños.
+
+### Categorías:
+
+#### Controles técnicos:
+- Son controles que implementamos mediante algún tipo de sistema técnico
+- Implementados mediante sistemas
+- Controles del sistema operativo
+- Cortafuegos, antivirus.
+
+#### Controles administrativos:
+- Como administrador de seguridad también querrá crear una serie de políticas que expliquen a las personas la mejor manera de administrar sus computadoras, sus datos u otros sistemas
+- Controles administrativos, diseño e implementación.
+- Políticas y procedimientos de seguridad.
+
+#### Controles operativos:
+- Para gestionar estos controles operativos utilizan personas para establecer estos controles.
+- Implementados por personas.
+- Guardias, programas de concienciación.
+
+#### Controles físicos:
+- Se trata de controles que limitarán el acceso físico de alguien a un edificio, habitación o dispositivo.
+- Limitar el acceso físico.
+- Cabinas de seguridad, cercas, cerraduras, lector de credenciales.
+
+### Tipos de control:
+
+- **Preventivo**: Bloquea el acceso a un recurso.
+- **Disuasivo**: Desanima un intento de intrusión.
+- **Detectivo**: Identifica y registra un intento de intrusión.
+- **Correctivo**: Aplicado después de que se detecta un evento, invirtiendo el impacto.
+- **Compensatorio**: Controles existentes insuficientes, se controla temporalmente mediante otros medios.
+- **Directivo**: Dirige a un sujeto hacia el cumplimiento (débil, basado en sugerencia/política).
+
+### Tabla de Controles
+
+| Categorías    | Ejemplos de Tipos de Control |
+|---------------|------------------------------|
+|               | Preventivo | Disuasivo | Detectivo | Correctivo | Compensatorio | Directivo |
+| Técnico       | Cortafuegos | Splash Screen/Pantalla de bienvenida | Registros del sistema | Recuperación de respaldo | Bloqueo en lugar de parche | Políticas de almacenamiento de archivos |
+| Gerencial     | Política de incorporación | Degradación | Revisión de informes de inicio de sesión | Políticas para reportar problemas | Separación de funciones | Políticas de cumplimiento |
+| Operacional   | Caseta de guardia | Recepción | Patrullas de guardias | Contactar a las autoridades | Requerir múltiples personal de seguridad | Capacitación en políticas de seguridad |
+| Físico        | Cerradura de puerta | Señales de advertencia | Detectores de movimiento | Extintor de incendios | Generador de energía | Señal: Solo Personal Autorizado |
